@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá Eu sou Aires José de Matos 👋
 
-<!--
-**Aires23Matos/Aires23Matos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aires-josé-matos)
 
-Here are some ideas to get you started:
+![Aires GitHub stats](https://github-readme-stats.vercel.app/api?username=Aires23Matos&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aires23matos&size_weight=0.5&count_weight=0.5)
+## Tecnologias que uso no meu dia
+
+<div style ='display: inline_block'><br/>
+<image align='cenetr' alt ='html5' src ='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'><image align='cenetr' alt ='typespcrit' src ='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'><image align='cenetr' alt ='go' src ='https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white'><image align='cenetr' alt ='node.js' src ='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'></div><br/>
+
+Desenvolvedor apaixonado por código limpo e soluções criativas, sempre em busca de novos desafios. Entusiasta de open-source e tecnologia disruptiva. Aprendizado contínuo é meu combustível.
