@@ -1,6 +1,6 @@
 ### Olá Eu sou Aires José de Matos 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aires-josé-matos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aires-jose-matos)
 
 ![Aires GitHub stats](https://github-readme-stats.vercel.app/api?username=Aires23Matos&show_icons=true&theme=radical)
 
