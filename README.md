@@ -1,7 +1,7 @@
 ### Olá Eu sou Aires José de Matos 👋
 
 
-![Aires GitHub stats](https://github-readme-stats.vercel.app/api?username=Aires23Matos&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aires23matos&layout=compact)
+![Aires GitHub stats](https://github-readme-stats.vercel.app/api?username=Aires23Matos&show_icons=true&theme=radical) ![Aires GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aires23matos&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aires23matos&size_weight=0.5&count_weight=0.5)
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br>
