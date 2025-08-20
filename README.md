@@ -20,4 +20,8 @@
 </div>
 
 
-Desenvolvedor apaixonado por código limpo e soluções criativas, sempre em busca de novos desafios. Entusiasta de open-source e tecnologia disruptiva. Aprendizado contínuo é meu combustível.
+I am a back-end developer focused on creating robust, scalable and well-structured solutions, using languages such as JavaScript, TypeScript, Go (Golang) and C#. I have solid experience with good software engineering practices, such as TDD (Test-Driven Development) and Clean Code, ensuring efficient, testable and easy-to-maintain code.
+
+In addition to technical mastery, I stand out for assertive communication, teamwork and technical leadership skills, skills that allow me to act collaboratively in multidisciplinary teams and guide projects with clarity and organization.
+
+I am always looking for new challenges that allow me to evolve technically and generate real value for the solutions I develop.
